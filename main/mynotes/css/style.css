@@ -1,0 +1,51 @@
+.heading{
+	text-align: center;
+	margin-top: 1rem;
+}
+
+li{
+	list-style: none;
+}
+
+.notes_list{
+	padding: 2%;
+}
+
+.note{
+	margin: 1%;
+}
+
+.pageheader nav ul{
+	margin-left: 90px;
+}
+
+#btn_signout{
+	margin-right: 145px;
+}
+
+.card-header{
+	background-color: gray !important;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.card-header p{
+	align-items: center;
+	font-weight: normal;
+	font-size: 15px;
+}
+
+.note{
+	box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.float-left{
+	margin-top: 5px;
+	text-transform: capitalize;
+	
+}
+.float-right{
+	margin-left: auto;
+	float: right;
+}
+
